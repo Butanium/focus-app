@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Focus App</string>
+    <string name="notification_channel_name">Focus Timer</string>
+    <string name="notification_channel_desc">Notifications pour les rappels de focus</string>
+    <string name="notification_title">Temps d\'arrêter !</string>
+    <string name="notification_text">Vous utilisez votre téléphone depuis %d minutes</string>
+    <string name="action_remind_5">5 min</string>
+    <string name="action_remind_15">15 min</string>
+    <string name="action_disable">Désactiver</string>
+    <string name="service_description">Timer de focus en arrière-plan</string>
+</resources>
