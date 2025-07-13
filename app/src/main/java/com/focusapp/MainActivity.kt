@@ -27,6 +27,11 @@ class MainActivity : AppCompatActivity() {
             toggleTimer()
         }
 
+        binding.whitelistButton.setOnClickListener {
+            val intent = Intent(this, WhitelistActivity::class.java)
+            startActivity(intent)
+        }
+
         binding.initialDelayEdit.setOnFocusChangeListener { _, _ -> saveSettings() }
         binding.shortReminderEdit.setOnFocusChangeListener { _, _ -> saveSettings() }
         binding.longReminderEdit.setOnFocusChangeListener { _, _ -> saveSettings() }

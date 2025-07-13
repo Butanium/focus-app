@@ -109,7 +109,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:gravity="center_vertical">
+        android:gravity="center_vertical"
+        android:layout_marginBottom="24dp">
 
         <TextView
             android:layout_width="0dp"
@@ -124,5 +125,12 @@
             android:checked="true" />
 
     </LinearLayout>
+
+    <Button
+        android:id="@+id/whitelistButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gérer les apps whitelistées"
+        android:layout_marginTop="16dp" />
 
 </LinearLayout>

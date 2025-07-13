@@ -8,4 +8,5 @@
     <string name="action_remind_15">15 min</string>
     <string name="action_disable">Désactiver</string>
     <string name="service_description">Timer de focus en arrière-plan</string>
+    <string name="accessibility_service_description">Service pour détecter les applications et pause automatiquement le timer</string>
 </resources>
