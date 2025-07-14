@@ -1,4 +1,6 @@
 # Focus App
+Vibecoded focus app with claude caude and speech to text (not tested yet)
+
 
 Une application Android de productivité qui vous aide à limiter le temps d'utilisation de votre téléphone.
 

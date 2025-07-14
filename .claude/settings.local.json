@@ -5,7 +5,25 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(find:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(java:*)",
+      "Bash(curl:*)",
+      "Bash(apt install:*)",
+      "Bash(gradle --version)",
+      "Bash(unzip:*)",
+      "Bash(source:*)",
+      "Bash(gradle wrapper:*)",
+      "Bash(./gradlew:*)",
+      "Bash(ANDROID_HOME=/workspace/focus-app/android-sdk ./gradlew assembleDebug)",
+      "Bash(mv:*)",
+      "Bash(ANDROID_HOME=/workspace/focus-app/android-sdk cmdline-tools/latest/bin/sdkmanager \"platforms;android-34\" \"build-tools;34.0.0\")",
+      "Bash(ANDROID_HOME=/workspace/focus-app/android-sdk timeout 600 ./gradlew assembleDebug)",
+      "Bash(cp:*)",
+      "Bash(ANDROID_HOME=/workspace/focus-app/android-sdk cmdline-tools/latest/bin/sdkmanager \"system-images;android-34;google_apis;x86_64\" \"emulator\")",
+      "Bash(ANDROID_HOME=/workspace/focus-app/android-sdk cmdline-tools/latest/bin/avdmanager list target)",
+      "Bash(ANDROID_HOME=/workspace/focus-app/android-sdk cmdline-tools/latest/bin/sdkmanager --list_installed)",
+      "Bash(ANDROID_HOME=/workspace/focus-app/android-sdk cmdline-tools/latest/bin/sdkmanager \"system-images;android-34;default;x86_64\")",
+      "Bash(ANDROID_HOME=/workspace/focus-app/android-sdk timeout 1200 cmdline-tools/latest/bin/sdkmanager \"system-images;android-34;default;x86_64\")"
     ],
     "deny": []
   }
